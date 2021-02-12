@@ -1,0 +1,1769 @@
+fileFormatVersion: 2
+guid: 2dd4a22f3f8695a44b96e82922fa74be
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 4803702383176954531
+    second: 5_magickahit_spritesheet_0
+  - first:
+      213: 6820912076193251547
+    second: 5_magickahit_spritesheet_1
+  - first:
+      213: 6859782132895066820
+    second: 5_magickahit_spritesheet_2
+  - first:
+      213: -746115806085684450
+    second: 5_magickahit_spritesheet_3
+  - first:
+      213: 1424115193272190592
+    second: 5_magickahit_spritesheet_4
+  - first:
+      213: -486936357414300588
+    second: 5_magickahit_spritesheet_5
+  - first:
+      213: -5810731248693748521
+    second: 5_magickahit_spritesheet_6
+  - first:
+      213: -2094541304790638283
+    second: 5_magickahit_spritesheet_7
+  - first:
+      213: -5169754518563628028
+    second: 5_magickahit_spritesheet_8
+  - first:
+      213: 3162106324920298090
+    second: 5_magickahit_spritesheet_9
+  - first:
+      213: -4239192240988666134
+    second: 5_magickahit_spritesheet_10
+  - first:
+      213: 7581563179222848216
+    second: 5_magickahit_spritesheet_11
+  - first:
+      213: 1087115586850774553
+    second: 5_magickahit_spritesheet_12
+  - first:
+      213: -8102092817101925456
+    second: 5_magickahit_spritesheet_13
+  - first:
+      213: 5879136455014209511
+    second: 5_magickahit_spritesheet_14
+  - first:
+      213: -6626720293849078725
+    second: 5_magickahit_spritesheet_15
+  - first:
+      213: -4746820355198552021
+    second: 5_magickahit_spritesheet_16
+  - first:
+      213: -8042221756999643948
+    second: 5_magickahit_spritesheet_17
+  - first:
+      213: 2364980334472641217
+    second: 5_magickahit_spritesheet_18
+  - first:
+      213: -6656955330782830121
+    second: 5_magickahit_spritesheet_19
+  - first:
+      213: -8073327379077960273
+    second: 5_magickahit_spritesheet_20
+  - first:
+      213: 4027879365577250166
+    second: 5_magickahit_spritesheet_21
+  - first:
+      213: -792399278264089422
+    second: 5_magickahit_spritesheet_22
+  - first:
+      213: -1092029394716437020
+    second: 5_magickahit_spritesheet_23
+  - first:
+      213: -7454384610758486479
+    second: 5_magickahit_spritesheet_24
+  - first:
+      213: 7131929356350560375
+    second: 5_magickahit_spritesheet_25
+  - first:
+      213: -7055180929306623834
+    second: 5_magickahit_spritesheet_26
+  - first:
+      213: 4956632601904099782
+    second: 5_magickahit_spritesheet_27
+  - first:
+      213: 3978767152069918850
+    second: 5_magickahit_spritesheet_28
+  - first:
+      213: 6809696860904272511
+    second: 5_magickahit_spritesheet_29
+  - first:
+      213: 180651214059257040
+    second: 5_magickahit_spritesheet_30
+  - first:
+      213: 2469524062113519145
+    second: 5_magickahit_spritesheet_31
+  - first:
+      213: -3532207454927019422
+    second: 5_magickahit_spritesheet_32
+  - first:
+      213: 2225385949232852365
+    second: 5_magickahit_spritesheet_33
+  - first:
+      213: 4813506030954577605
+    second: 5_magickahit_spritesheet_34
+  - first:
+      213: 1017786815558401164
+    second: 5_magickahit_spritesheet_35
+  - first:
+      213: -2830712739599875105
+    second: 5_magickahit_spritesheet_36
+  - first:
+      213: 651937455337554613
+    second: 5_magickahit_spritesheet_37
+  - first:
+      213: 6905719777929522907
+    second: 5_magickahit_spritesheet_38
+  - first:
+      213: 6077301044960376977
+    second: 5_magickahit_spritesheet_39
+  - first:
+      213: 795912654621835974
+    second: 5_magickahit_spritesheet_40
+  - first:
+      213: -8429440816219903822
+    second: 5_magickahit_spritesheet_41
+  - first:
+      213: 391929784735948921
+    second: 5_magickahit_spritesheet_42
+  - first:
+      213: 3798175453733150915
+    second: 5_magickahit_spritesheet_43
+  - first:
+      213: -1995175493003271232
+    second: 5_magickahit_spritesheet_44
+  - first:
+      213: -120584290559683788
+    second: 5_magickahit_spritesheet_45
+  - first:
+      213: 7958912047733375917
+    second: 5_magickahit_spritesheet_46
+  - first:
+      213: 258239289337036955
+    second: 5_magickahit_spritesheet_47
+  - first:
+      213: -3837036779149884686
+    second: 5_magickahit_spritesheet_48
+  - first:
+      213: 6855119818355320429
+    second: 5_magickahit_spritesheet_49
+  - first:
+      213: -1188387358573602255
+    second: 5_magickahit_spritesheet_50
+  - first:
+      213: -5310814327822041833
+    second: 5_magickahit_spritesheet_51
+  - first:
+      213: -3251209136594731230
+    second: 5_magickahit_spritesheet_52
+  - first:
+      213: -5920986762674008373
+    second: 5_magickahit_spritesheet_53
+  - first:
+      213: 8435193223373184020
+    second: 5_magickahit_spritesheet_54
+  - first:
+      213: -4563120683240922783
+    second: 5_magickahit_spritesheet_55
+  - first:
+      213: -98126982894052900
+    second: 5_magickahit_spritesheet_56
+  - first:
+      213: -6739916088925334616
+    second: 5_magickahit_spritesheet_57
+  - first:
+      213: 1984671853759815434
+    second: 5_magickahit_spritesheet_58
+  - first:
+      213: 4824809788306665026
+    second: 5_magickahit_spritesheet_59
+  - first:
+      213: -9112779151119144862
+    second: 5_magickahit_spritesheet_60
+  - first:
+      213: -4791631259369426165
+    second: 5_magickahit_spritesheet_61
+  - first:
+      213: 3003338049458780470
+    second: 5_magickahit_spritesheet_62
+  - first:
+      213: 456159389779752029
+    second: 5_magickahit_spritesheet_63
+  - first:
+      213: -9064561831547567705
+    second: 5_magickahit_spritesheet_64
+  - first:
+      213: 922079896744634051
+    second: 5_magickahit_spritesheet_65
+  - first:
+      213: 6270525092766632538
+    second: 5_magickahit_spritesheet_66
+  - first:
+      213: -8583213474121823635
+    second: 5_magickahit_spritesheet_67
+  - first:
+      213: 3728812940100885643
+    second: 5_magickahit_spritesheet_68
+  - first:
+      213: -1903633145666374245
+    second: 5_magickahit_spritesheet_69
+  - first:
+      213: 7162534060616257482
+    second: 5_magickahit_spritesheet_70
+  - first:
+      213: 597414586428269040
+    second: 5_magickahit_spritesheet_71
+  - first:
+      213: -8718164231727574883
+    second: 5_magickahit_spritesheet_72
+  - first:
+      213: 6565725071563918251
+    second: 5_magickahit_spritesheet_73
+  - first:
+      213: -6186835677799740589
+    second: 5_magickahit_spritesheet_74
+  - first:
+      213: -4666282084978315901
+    second: 5_magickahit_spritesheet_75
+  - first:
+      213: -5216328565665478567
+    second: 5_magickahit_spritesheet_76
+  - first:
+      213: -557318552151525768
+    second: 5_magickahit_spritesheet_77
+  - first:
+      213: 756581874018668226
+    second: 5_magickahit_spritesheet_0
+  - first:
+      213: 8038063083579160319
+    second: 5_magickahit_spritesheet_1
+  - first:
+      213: -528043678980860967
+    second: 5_magickahit_spritesheet_2
+  - first:
+      213: 7019619099904017774
+    second: 5_magickahit_spritesheet_3
+  - first:
+      213: -7148530095677781780
+    second: 5_magickahit_spritesheet_4
+  - first:
+      213: 43224996031498340
+    second: 5_magickahit_spritesheet_5
+  - first:
+      213: -5765963398668972946
+    second: 5_magickahit_spritesheet_6
+  - first:
+      213: 1720579500039927800
+    second: 5_magickahit_spritesheet_7
+  - first:
+      213: -5126713175011042007
+    second: 5_magickahit_spritesheet_8
+  - first:
+      213: 8017630914837581367
+    second: 5_magickahit_spritesheet_9
+  - first:
+      213: -2621540986754834776
+    second: 5_magickahit_spritesheet_10
+  - first:
+      213: -4000722249893663074
+    second: 5_magickahit_spritesheet_11
+  - first:
+      213: -1916327459875581799
+    second: 5_magickahit_spritesheet_12
+  - first:
+      213: -2940809773172704940
+    second: 5_magickahit_spritesheet_13
+  - first:
+      213: 7099135148934161153
+    second: 5_magickahit_spritesheet_14
+  - first:
+      213: 4679588770308808721
+    second: 5_magickahit_spritesheet_15
+  - first:
+      213: 4472604887653861131
+    second: 5_magickahit_spritesheet_16
+  - first:
+      213: -6232343501390573476
+    second: 5_magickahit_spritesheet_17
+  - first:
+      213: 541251473737039531
+    second: 5_magickahit_spritesheet_18
+  - first:
+      213: -3299829271221568347
+    second: 5_magickahit_spritesheet_19
+  - first:
+      213: 3652267385032424139
+    second: 5_magickahit_spritesheet_20
+  - first:
+      213: -2234701044977333397
+    second: 5_magickahit_spritesheet_21
+  - first:
+      213: -6891297119562970056
+    second: 5_magickahit_spritesheet_22
+  - first:
+      213: 7577088054857121089
+    second: 5_magickahit_spritesheet_23
+  - first:
+      213: 6800462214735730900
+    second: 5_magickahit_spritesheet_24
+  - first:
+      213: -6150088770440065393
+    second: 5_magickahit_spritesheet_25
+  - first:
+      213: 2135589387343767248
+    second: 5_magickahit_spritesheet_26
+  - first:
+      213: 4566869170285246577
+    second: 5_magickahit_spritesheet_27
+  - first:
+      213: -3131618487964577588
+    second: 5_magickahit_spritesheet_28
+  - first:
+      213: 5925162069310057506
+    second: 5_magickahit_spritesheet_29
+  - first:
+      213: -181968254490618652
+    second: 5_magickahit_spritesheet_30
+  - first:
+      213: -7377027821337387369
+    second: 5_magickahit_spritesheet_31
+  - first:
+      213: -2394035476362476046
+    second: 5_magickahit_spritesheet_32
+  - first:
+      213: -6150697747608875975
+    second: 5_magickahit_spritesheet_33
+  - first:
+      213: 2108579167212081458
+    second: 5_magickahit_spritesheet_34
+  - first:
+      213: 1542839123418296496
+    second: 5_magickahit_spritesheet_35
+  - first:
+      213: 405281198094534410
+    second: 5_magickahit_spritesheet_36
+  - first:
+      213: -3015794565489950991
+    second: 5_magickahit_spritesheet_37
+  - first:
+      213: -8554409092873540007
+    second: 5_magickahit_spritesheet_38
+  - first:
+      213: -7649636527368770605
+    second: 5_magickahit_spritesheet_39
+  - first:
+      213: 1955329995766993665
+    second: 5_magickahit_spritesheet_40
+  - first:
+      213: 6462085624351517438
+    second: 5_magickahit_spritesheet_41
+  - first:
+      213: 5825855335399189854
+    second: 5_magickahit_spritesheet_42
+  - first:
+      213: -3591431995585104702
+    second: 5_magickahit_spritesheet_43
+  - first:
+      213: -6165992835696549087
+    second: 5_magickahit_spritesheet_44
+  - first:
+      213: -2574713281068331916
+    second: 5_magickahit_spritesheet_45
+  - first:
+      213: -8915769572087938952
+    second: 5_magickahit_spritesheet_46
+  - first:
+      213: -4687339355855715885
+    second: 5_magickahit_spritesheet_47
+  - first:
+      213: -4026160612021865372
+    second: 5_magickahit_spritesheet_48
+  - first:
+      213: -3147245069006287225
+    second: 5_magickahit_spritesheet_49
+  - first:
+      213: 5199786209202787539
+    second: 5_magickahit_spritesheet_50
+  - first:
+      213: -1067164749636199702
+    second: 5_magickahit_spritesheet_51
+  - first:
+      213: -8710455990185427087
+    second: 5_magickahit_spritesheet_52
+  - first:
+      213: 6620969327611733949
+    second: 5_magickahit_spritesheet_53
+  - first:
+      213: 1871956768361216728
+    second: 5_magickahit_spritesheet_54
+  - first:
+      213: -3781020365865267537
+    second: 5_magickahit_spritesheet_55
+  - first:
+      213: -2123899538670050111
+    second: 5_magickahit_spritesheet_56
+  - first:
+      213: 7849524058238591597
+    second: 5_magickahit_spritesheet_57
+  - first:
+      213: -7899087510606112388
+    second: 5_magickahit_spritesheet_58
+  - first:
+      213: 6160284800924824917
+    second: 5_magickahit_spritesheet_59
+  - first:
+      213: -2382199417494204385
+    second: 5_magickahit_spritesheet_60
+  - first:
+      213: -8647391800101940926
+    second: 5_magickahit_spritesheet_61
+  - first:
+      213: -6154010848052835642
+    second: 5_magickahit_spritesheet_62
+  - first:
+      213: 6854287486269981789
+    second: 5_magickahit_spritesheet_63
+  - first:
+      213: -4084263089382445538
+    second: 5_magickahit_spritesheet_64
+  - first:
+      213: 4001231868418270154
+    second: 5_magickahit_spritesheet_65
+  - first:
+      213: -2711626381286887399
+    second: 5_magickahit_spritesheet_66
+  - first:
+      213: -2405116704948738794
+    second: 5_magickahit_spritesheet_67
+  - first:
+      213: -1711289521984675685
+    second: 5_magickahit_spritesheet_68
+  - first:
+      213: -3776889505896998261
+    second: 5_magickahit_spritesheet_69
+  - first:
+      213: -8817432994409254182
+    second: 5_magickahit_spritesheet_70
+  - first:
+      213: -5467123570020580797
+    second: 5_magickahit_spritesheet_71
+  - first:
+      213: -8487031136569944840
+    second: 5_magickahit_spritesheet_72
+  - first:
+      213: 2392922112685062485
+    second: 5_magickahit_spritesheet_73
+  - first:
+      213: -6379907340607768661
+    second: 5_magickahit_spritesheet_74
+  - first:
+      213: 2814334361149636015
+    second: 5_magickahit_spritesheet_75
+  - first:
+      213: 5702902908583479796
+    second: 5_magickahit_spritesheet_76
+  - first:
+      213: 7260873283524693590
+    second: 5_magickahit_spritesheet_77
+  - first:
+      213: 9127089692152515350
+    second: 5_magickahit_spritesheet_78
+  - first:
+      213: -5560402412893294115
+    second: 5_magickahit_spritesheet_79
+  - first:
+      213: -146403209105546662
+    second: 5_magickahit_spritesheet_80
+  - first:
+      213: 6959119590940708060
+    second: 5_magickahit_spritesheet_81
+  - first:
+      213: 3247219735347699809
+    second: 5_magickahit_spritesheet_82
+  - first:
+      213: 8649865787138711179
+    second: 5_magickahit_spritesheet_83
+  - first:
+      213: 160084075579844473
+    second: 5_magickahit_spritesheet_84
+  - first:
+      213: 2936286714084227933
+    second: 5_magickahit_spritesheet_85
+  - first:
+      213: -6899593146930869042
+    second: 5_magickahit_spritesheet_86
+  - first:
+      213: 7653178876241932015
+    second: 5_magickahit_spritesheet_87
+  - first:
+      213: 8256508184299435407
+    second: 5_magickahit_spritesheet_88
+  - first:
+      213: 1832251863614539007
+    second: 5_magickahit_spritesheet_89
+  - first:
+      213: 458746017588742034
+    second: 5_magickahit_spritesheet_90
+  - first:
+      213: 5379124805340125937
+    second: 5_magickahit_spritesheet_91
+  - first:
+      213: -8927604388163554268
+    second: 5_magickahit_spritesheet_92
+  - first:
+      213: 4537170424895520912
+    second: 5_magickahit_spritesheet_93
+  - first:
+      213: -185287188347065584
+    second: 5_magickahit_spritesheet_94
+  - first:
+      213: 2972211097406352827
+    second: 5_magickahit_spritesheet_95
+  - first:
+      213: 4562777159125968518
+    second: 5_magickahit_spritesheet_96
+  - first:
+      213: 5371909620581375438
+    second: 5_magickahit_spritesheet_97
+  - first:
+      213: 8290910151498368265
+    second: 5_magickahit_spritesheet_98
+  - first:
+      213: -1259366390507535189
+    second: 5_magickahit_spritesheet_99
+  - first:
+      213: 2617934824294383195
+    second: 5_magickahit_spritesheet_100
+  - first:
+      213: -2606472057276225370
+    second: 5_magickahit_spritesheet_101
+  - first:
+      213: 6601799759433018309
+    second: 5_magickahit_spritesheet_102
+  - first:
+      213: 6185018580890084098
+    second: 5_magickahit_spritesheet_103
+  - first:
+      213: 2287532981067203412
+    second: 5_magickahit_spritesheet_104
+  - first:
+      213: 6258970357933604396
+    second: 5_magickahit_spritesheet_105
+  - first:
+      213: 2575673671968172695
+    second: 5_magickahit_spritesheet_106
+  - first:
+      213: 6572921047683177973
+    second: 5_magickahit_spritesheet_107
+  - first:
+      213: -6218670461377267985
+    second: 5_magickahit_spritesheet_108
+  - first:
+      213: -7244572530635044983
+    second: 5_magickahit_spritesheet_109
+  - first:
+      213: -5310215783296242599
+    second: 5_magickahit_spritesheet_110
+  - first:
+      213: 7079240102087808758
+    second: 5_magickahit_spritesheet_111
+  - first:
+      213: 1567432168348565570
+    second: 5_magickahit_spritesheet_112
+  - first:
+      213: -3034732368647519673
+    second: 5_magickahit_spritesheet_113
+  - first:
+      213: -5562477052807104670
+    second: 5_magickahit_spritesheet_114
+  - first:
+      213: 1214475993951264208
+    second: 5_magickahit_spritesheet_115
+  - first:
+      213: 7584058638773528493
+    second: 5_magickahit_spritesheet_116
+  - first:
+      213: 6160125886205931316
+    second: 5_magickahit_spritesheet_117
+  - first:
+      213: 296231573171620905
+    second: 5_magickahit_spritesheet_118
+  - first:
+      213: -1684573244061633681
+    second: 5_magickahit_spritesheet_119
+  - first:
+      213: -1560201405252825852
+    second: 5_magickahit_spritesheet_120
+  - first:
+      213: 2382096495154758277
+    second: 5_magickahit_spritesheet_121
+  - first:
+      213: -8148029335693194528
+    second: 5_magickahit_spritesheet_122
+  - first:
+      213: -5426530775181322026
+    second: 5_magickahit_spritesheet_123
+  - first:
+      213: -8953562807852997974
+    second: 5_magickahit_spritesheet_124
+  - first:
+      213: -3178120072445845356
+    second: 5_magickahit_spritesheet_125
+  - first:
+      213: 6165025946427902109
+    second: 5_magickahit_spritesheet_126
+  - first:
+      213: 2360599457239331486
+    second: 5_magickahit_spritesheet_127
+  - first:
+      213: -2994864529802766945
+    second: 5_magickahit_spritesheet_128
+  - first:
+      213: -9008006804990204289
+    second: 5_magickahit_spritesheet_129
+  - first:
+      213: -3337507776180270631
+    second: 5_magickahit_spritesheet_130
+  - first:
+      213: -3480332551678830922
+    second: 5_magickahit_spritesheet_131
+  - first:
+      213: -5788556069670991302
+    second: 5_magickahit_spritesheet_132
+  - first:
+      213: 8211761802464623161
+    second: 5_magickahit_spritesheet_133
+  - first:
+      213: 4495727687448581741
+    second: 5_magickahit_spritesheet_134
+  - first:
+      213: -6835998680634873958
+    second: 5_magickahit_spritesheet_135
+  - first:
+      213: -8863223975815859687
+    second: 5_magickahit_spritesheet_136
+  - first:
+      213: 3512333644948528675
+    second: 5_magickahit_spritesheet_137
+  - first:
+      213: 7227308330281913130
+    second: 5_magickahit_spritesheet_138
+  - first:
+      213: 6535034748721576969
+    second: 5_magickahit_spritesheet_139
+  - first:
+      213: 8168414466668388423
+    second: 5_magickahit_spritesheet_140
+  - first:
+      213: 2350189797927255631
+    second: 5_magickahit_spritesheet_141
+  - first:
+      213: -2413074303416525952
+    second: 5_magickahit_spritesheet_142
+  - first:
+      213: 1267327388307020361
+    second: 5_magickahit_spritesheet_143
+  - first:
+      213: 7520475635850424856
+    second: 5_magickahit_spritesheet_144
+  - first:
+      213: -8296436655327686798
+    second: 5_magickahit_spritesheet_145
+  - first:
+      213: 1810980602757243381
+    second: 5_magickahit_spritesheet_146
+  - first:
+      213: 5028529234290285704
+    second: 5_magickahit_spritesheet_147
+  - first:
+      213: -8476772696035101933
+    second: 5_magickahit_spritesheet_148
+  - first:
+      213: -4419589980373467609
+    second: 5_magickahit_spritesheet_149
+  - first:
+      213: 5990821225467128112
+    second: 5_magickahit_spritesheet_150
+  - first:
+      213: -3782160433137618476
+    second: 5_magickahit_spritesheet_151
+  - first:
+      213: 7313479086983697688
+    second: 5_magickahit_spritesheet_152
+  - first:
+      213: 3290386574661601946
+    second: 5_magickahit_spritesheet_153
+  - first:
+      213: -7120667741719774331
+    second: 5_magickahit_spritesheet_154
+  - first:
+      213: -1409512213852902974
+    second: 5_magickahit_spritesheet_155
+  - first:
+      213: 8774557785841946729
+    second: 5_magickahit_spritesheet_156
+  - first:
+      213: -6709416190853320781
+    second: 5_magickahit_spritesheet_157
+  - first:
+      213: -8316278151967175783
+    second: 5_magickahit_spritesheet_158
+  - first:
+      213: 9153054079295782103
+    second: 5_magickahit_spritesheet_159
+  - first:
+      213: -9136505296424654171
+    second: 5_magickahit_spritesheet_160
+  - first:
+      213: -256470904263349398
+    second: 5_magickahit_spritesheet_161
+  - first:
+      213: -5835517459468185393
+    second: 5_magickahit_spritesheet_162
+  - first:
+      213: 8825153524443787132
+    second: 5_magickahit_spritesheet_163
+  - first:
+      213: 4764631885331168149
+    second: 5_magickahit_spritesheet_164
+  - first:
+      213: 4405834918485209212
+    second: 5_magickahit_spritesheet_165
+  - first:
+      213: -6368531360712465143
+    second: 5_magickahit_spritesheet_166
+  - first:
+      213: 4050035351234432666
+    second: 5_magickahit_spritesheet_167
+  - first:
+      213: -8272291783363902765
+    second: 5_magickahit_spritesheet_168
+  - first:
+      213: 2090064062055654191
+    second: 5_magickahit_spritesheet_169
+  - first:
+      213: -4383839543571042087
+    second: 5_magickahit_spritesheet_170
+  - first:
+      213: 5030835695237252117
+    second: 5_magickahit_spritesheet_171
+  - first:
+      213: -6233521071969533486
+    second: 5_magickahit_spritesheet_172
+  - first:
+      213: -8803703306269260649
+    second: 5_magickahit_spritesheet_173
+  - first:
+      213: -5041631622056952396
+    second: 5_magickahit_spritesheet_174
+  - first:
+      213: -3729123175752512559
+    second: 5_magickahit_spritesheet_175
+  - first:
+      213: 3316876696638993954
+    second: 5_magickahit_spritesheet_176
+  - first:
+      213: 8767587690495283210
+    second: 5_magickahit_spritesheet_177
+  - first:
+      213: 89784327105191032
+    second: 5_magickahit_spritesheet_178
+  - first:
+      213: 8654518260140337469
+    second: 5_magickahit_spritesheet_179
+  - first:
+      213: 2550641210165952621
+    second: 5_magickahit_spritesheet_180
+  - first:
+      213: -7904225932338806346
+    second: 5_magickahit_spritesheet_181
+  - first:
+      213: 5421950144477227771
+    second: 5_magickahit_spritesheet_182
+  - first:
+      213: 8260374883757078879
+    second: 5_magickahit_spritesheet_183
+  - first:
+      213: 2725704601793558640
+    second: 5_magickahit_spritesheet_184
+  - first:
+      213: -2297158105154988119
+    second: 5_magickahit_spritesheet_185
+  - first:
+      213: 974837336394834090
+    second: 5_magickahit_spritesheet_186
+  - first:
+      213: -2332120985282507527
+    second: 5_magickahit_spritesheet_187
+  - first:
+      213: -7042135936281488608
+    second: 5_magickahit_spritesheet_188
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 20
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: 5_magickahit_spritesheet_0
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 600
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2cec164b43bef7a00800000000000000
+      internalID: 756581874018668226
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 5_magickahit_spritesheet_1
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 600
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ff6baea79cfec8f60800000000000000
+      internalID: 8038063083579160319
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 5_magickahit_spritesheet_2
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 600
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9d3947852130ca8f0800000000000000
+      internalID: -528043678980860967
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 5_magickahit_spritesheet_3
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 600
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e65835c3162ba6160800000000000000
+      internalID: 7019619099904017774
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 5_magickahit_spritesheet_4
+      rect:
+        serializedVersion: 2
+        x: 500
+        y: 600
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ce8cfe4a0c15bcc90800000000000000
+      internalID: -7148530095677781780
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 5_magickahit_spritesheet_5
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 600
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 46800e5a7e0999000800000000000000
+      internalID: 43224996031498340
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 5_magickahit_spritesheet_6
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 500
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e6c8e6a96de2bffa0800000000000000
+      internalID: -5765963398668972946
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 5_magickahit_spritesheet_7
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 500
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8f7f2b370f9b0e710800000000000000
+      internalID: 1720579500039927800
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 5_magickahit_spritesheet_8
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 500
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 92dd622a7814ad8b0800000000000000
+      internalID: -5126713175011042007
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 5_magickahit_spritesheet_9
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 500
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 73e851b76d8544f60800000000000000
+      internalID: 8017630914837581367
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 5_magickahit_spritesheet_10
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 500
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8aed950bc5a6e9bd0800000000000000
+      internalID: -2621540986754834776
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 5_magickahit_spritesheet_11
+      rect:
+        serializedVersion: 2
+        x: 500
+        y: 500
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e9e261a7f449a78c0800000000000000
+      internalID: -4000722249893663074
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 5_magickahit_spritesheet_12
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 500
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9901ac01456d765e0800000000000000
+      internalID: -1916327459875581799
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 5_magickahit_spritesheet_13
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 400
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4593b06a7152037d0800000000000000
+      internalID: -2940809773172704940
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 5_magickahit_spritesheet_14
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 400
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 103e5bc1ec1358260800000000000000
+      internalID: 7099135148934161153
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 5_magickahit_spritesheet_15
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 400
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 110e92d613d31f040800000000000000
+      internalID: 4679588770308808721
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 5_magickahit_spritesheet_16
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 400
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b07c84dc272e11e30800000000000000
+      internalID: 4472604887653861131
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 5_magickahit_spritesheet_17
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 400
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c5096691b944289a0800000000000000
+      internalID: -6232343501390573476
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 5_magickahit_spritesheet_18
+      rect:
+        serializedVersion: 2
+        x: 500
+        y: 400
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: baeb0420959e28700800000000000000
+      internalID: 541251473737039531
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 5_magickahit_spritesheet_19
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 400
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5acf665d2c6a432d0800000000000000
+      internalID: -3299829271221568347
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 5_magickahit_spritesheet_20
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 300
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bca3a9d06d57fa230800000000000000
+      internalID: 3652267385032424139
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 5_magickahit_spritesheet_21
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 300
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b6b8ee25d3fbcf0e0800000000000000
+      internalID: -2234701044977333397
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 5_magickahit_spritesheet_22
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 300
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 83cc6ca08c13d50a0800000000000000
+      internalID: -6891297119562970056
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 5_magickahit_spritesheet_23
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 300
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 14d3d95d079372960800000000000000
+      internalID: 7577088054857121089
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 5_magickahit_spritesheet_24
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 300
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4d81ac99a58106e50800000000000000
+      internalID: 6800462214735730900
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 5_magickahit_spritesheet_25
+      rect:
+        serializedVersion: 2
+        x: 500
+        y: 300
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f8e0dcc09de76aaa0800000000000000
+      internalID: -6150088770440065393
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 5_magickahit_spritesheet_26
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 300
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0d628b2ab3323ad10800000000000000
+      internalID: 2135589387343767248
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 5_magickahit_spritesheet_27
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 200
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 178f8866057c06f30800000000000000
+      internalID: 4566869170285246577
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 5_magickahit_spritesheet_28
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 200
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cc053d4c3914a84d0800000000000000
+      internalID: -3131618487964577588
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 5_magickahit_spritesheet_29
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 200
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 22c28d952876a3250800000000000000
+      internalID: 5925162069310057506
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 5_magickahit_spritesheet_30
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 200
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4e450be26d4897df0800000000000000
+      internalID: -181968254490618652
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 5_magickahit_spritesheet_31
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 200
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 79ed20b18488f9990800000000000000
+      internalID: -7377027821337387369
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 5_magickahit_spritesheet_32
+      rect:
+        serializedVersion: 2
+        x: 500
+        y: 200
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2f54bbb1b6da6ced0800000000000000
+      internalID: -2394035476362476046
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 5_magickahit_spritesheet_33
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 200
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 93c4af08cf454aaa0800000000000000
+      internalID: -6150697747608875975
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 5_magickahit_spritesheet_34
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 100
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2311772b49d234d10800000000000000
+      internalID: 2108579167212081458
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 5_magickahit_spritesheet_35
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 100
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0b03ce82204496510800000000000000
+      internalID: 1542839123418296496
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 5_magickahit_spritesheet_36
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 100
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a07c1963a19df9500800000000000000
+      internalID: 405281198094534410
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 5_magickahit_spritesheet_37
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 100
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1fefa6032deb526d0800000000000000
+      internalID: -3015794565489950991
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 5_magickahit_spritesheet_38
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 100
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 95ea6e3d042a84980800000000000000
+      internalID: -8554409092873540007
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 5_magickahit_spritesheet_39
+      rect:
+        serializedVersion: 2
+        x: 500
+        y: 100
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3dbe45d9b1807d590800000000000000
+      internalID: -7649636527368770605
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

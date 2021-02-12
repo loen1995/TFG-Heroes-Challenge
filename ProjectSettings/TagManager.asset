@@ -1,0 +1,64 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - ButtonCanvas
+  - myPlayer
+  - otherPlayer
+  - CanvasVictory
+  - CanvasLose
+  - victoryGold
+  - victoryTrophys
+  - defeatGold
+  - defeatTrophys
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - Player
+  - Ground
+  - Depth
+  - Enemies
+  - Ignore
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Sky
+    uniqueID: 1381854527
+    locked: 0
+  - name: Ice Mountain
+    uniqueID: 3673294895
+    locked: 0
+  - name: Grass Mountain
+    uniqueID: 113564413
+    locked: 0
+  - name: Depth
+    uniqueID: 3380404573
+    locked: 0
+  - name: Default
+    uniqueID: 0
+    locked: 0
