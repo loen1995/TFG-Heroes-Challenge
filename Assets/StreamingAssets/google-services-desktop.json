@@ -1,0 +1,37 @@
+{
+  "project_info": {
+    "project_number": "948863785390",
+    "firebase_url": "https://loentfg.firebaseio.com",
+    "project_id": "loentfg",
+    "storage_bucket": "loentfg.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:948863785390:ios:0bfd4d30207af303c5503f",
+        "android_client_info": {
+          "package_name": "com.LoenGames.TFG"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "948863785390-6hnheovmigkh6gggjtch4sj8ledu3cjc.apps.googleusercontent.com"
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC3PQi6fPkNrANrgvGrJWFKtVluNSCpvNw"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 0
+        },
+        "appinvite_service": {
+          "status": 1
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
